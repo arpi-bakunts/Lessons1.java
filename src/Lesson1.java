@@ -21,7 +21,6 @@ public class Lesson1 {
         System.out.println(v);
 
 
-
     }
 }
 
